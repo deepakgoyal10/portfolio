@@ -59,8 +59,8 @@ const HeroContent = () => {
         >
           Transforming ideas into reality with cutting-edge web and software
           development. Passionate about creating dynamic, user-centric
-          applications. Let's build something amazing together! Feel free to
-          contact me.
+          applications. Let&apos;s build something amazing together! Feel free
+          to contact me.
         </motion.p>
         <motion.a
           onClick={(e) => {
