@@ -13,9 +13,9 @@ const Projects = () => {
       <div className="h-full w-full flex flex-col md:grid grid-cols-3 gap-10 px-10 z-40">
         <ProjectCard
           src="/discord_logo_blue_neon.webp"
-          title="Discord Clone"
+          title="Social Monkey (Discord clone)"
           description="Technology Used Next.js 12, React hook form, Shedcn, Zustand, TypeScript, Prisma and more."
-          href="https://discord-clone-6i3c.onrender.com"
+          href="https://social-monkey.onrender.com"
         />
         <ProjectCard
           src="/google_meet_icon.png"
