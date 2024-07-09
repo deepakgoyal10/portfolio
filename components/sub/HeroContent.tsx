@@ -65,8 +65,9 @@ const HeroContent = () => {
         <motion.a
           onClick={(e) => {
             // https://drive.google.com/file/d/1GGZ2VT6WgQbcd4on0BK1wDQOmJ6v7mji/view?usp=sharing
+            
             window.open(
-              "https://drive.google.com/uc?export=download&id=1GGZ2VT6WgQbcd4on0BK1wDQOmJ6v7mji",
+              "https://drive.google.com/uc?export=download&id=1D0LngDes1-75EQqRjdNY_6qfQGMQb0Up",
               "_blank"
             );
           }}
